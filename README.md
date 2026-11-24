@@ -25,8 +25,6 @@ data
 
 ## Evaluation
 
-You can download our pretrained model [epoch_300.pth](https://drive.google.com/file/d/1ZDk0nqsekIXFcUOVdxxnP8AbKF8zZWip/view?usp=sharing) and put it in the '../log1/rgb_diffusion_pose' directory. Then, you can quickly evaluate using the following command:
-
 ```
 python test.py --config config/rgb_diffusion_pose.yaml
 ```
