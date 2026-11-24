@@ -34,9 +34,6 @@ python test.py --config config/rgb_diffusion_pose.yaml
 
 ## Training
 
-To train the model, remember to download the complete datasets and organize & preprocess them properly.
-
-train.py is the main file for training. You can start training using the following command:
 
 ```
 python train.py --gpus 0 --config config/rgb_diffusion_pose.yaml
