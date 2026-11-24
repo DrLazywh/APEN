@@ -1,6 +1,4 @@
-# Learning to Restore Metric Depth from Affine-Invariant Prediction for Monocular Category-Level 9D Object Pose Estimation
----
-
+## Learning to Restore Metric Depth from Affine-Invariant Prediction for Monocular Category-Level 9D Object Pose Estimation
 ## Installation
 
 Our code has been trained and tested with:
